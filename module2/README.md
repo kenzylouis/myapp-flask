@@ -3,14 +3,14 @@ Blueprints and Jinja 2 Templates
 
 ## Some tips
 - In Django they use the "MTV" design pattern
-* Model: Database models
-* Template: HTML templates
-* View: routes to map URL endpoints to HTTP responses. (HTTP response to render a template, JSON, etc.)
+  * Model: Database models
+  * Template: HTML templates
+  * View: routes to map URL endpoints to HTTP responses. (HTTP response to render a template, JSON, etc.)
 
 - Rails uses "MVC" pattern
-* Model
-* View
-* Controller
+  * Model
+  * View
+  * Controller
 
 
 Blueprints -> page -> views.py | templates | init(import views.page())
