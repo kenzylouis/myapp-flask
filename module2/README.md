@@ -12,7 +12,8 @@ Blueprints and Jinja 2 Templates
   * View
   * Controller
 
-
+### Blueprints
+They allow you to break your application up into components
 Blueprints -> page -> views.py | templates | init(import views.page())
 
 can use extensions to minify and tag the asset with md5 filenames (asset manager, flask webpack, asset-minifier)
