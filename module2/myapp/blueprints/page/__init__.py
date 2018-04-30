@@ -1,0 +1,1 @@
+from myapp.blueprints.page.views import page

@@ -1,0 +1,3 @@
+Flask==1.0
+# Application server
+gunicorn==19.7.1
